@@ -1,0 +1,5 @@
+EmpId	EmpName	Dept	Salery	WorkingHours	Technology
+234	Santhosh	Cloud	42000	40	Python
+345	Kumar	DevOps	54000	35	Java
+564	Vinod	Cloud	52500	40	Ruby
+347	Naresh	Automation	34500	32	Go
